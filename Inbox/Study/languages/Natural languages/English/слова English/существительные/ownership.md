@@ -1,0 +1,2 @@
+ownership ==ˈəʊnəʃɪp== - владение
+[[english]]

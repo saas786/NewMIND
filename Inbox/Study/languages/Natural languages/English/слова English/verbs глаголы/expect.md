@@ -1,0 +1,2 @@
+expect `ɪksˈpekt` - ожидать
+[[english]]

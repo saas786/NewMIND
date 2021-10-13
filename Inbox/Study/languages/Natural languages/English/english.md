@@ -1,0 +1,2 @@
+[[connection point]]
+[[Основа]]

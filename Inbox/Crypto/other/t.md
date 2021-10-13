@@ -1,0 +1,1 @@
+pole symptom better soft circle spoon initial scale trash awake session yard

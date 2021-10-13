@@ -1,0 +1,3 @@
+predictable prɪˈdɪktəbl - предсказуемый
+
+[[english]]

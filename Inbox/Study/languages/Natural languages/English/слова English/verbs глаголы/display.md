@@ -1,0 +1,3 @@
+display – отображать
+
+[[english]]

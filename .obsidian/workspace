@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "f1dcb096e85bac5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6314577f14b7dc12",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c37571625af6444",
+    "type": "split",
+    "children": [
+      {
+        "id": "acfe4e374e7da6c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b11485189e815d63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6673e3b20793eea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Терминология и графический язык",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 546.5
+  },
+  "right": {
+    "id": "7cab349224299db1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ed8fb2780fc1c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f933641e66ead233",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb349f825e9c1477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0ff189a2bbc8a2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c1acea9e6d45b784",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "92b553ea61375e3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5098a6ba2d352f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e32335dbc3c7929",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd2de77f6d8f8c36",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6440eea867aea914",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6821f0279889bde",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "04a63097dc5a6974",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2e5a176e71b26c3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "08607c84a4a8ef04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 580.5,
+    "collapsed": true
+  },
+  "active": "6314577f14b7dc12",
+  "lastOpenFiles": [
+    "Inbox/Study/montage/Терминология и графический язык.md",
+    "Inbox/Study/Philosophy/коммуникация с выражением лица.md",
+    "Inbox/Study/Philosophy/Какие вопросы должен задавать себе специалист.md",
+    "Inbox/Study/Philosophy/Вопросы которые изменят жизнь.md",
+    "Inbox/Study/Philosophy/вопросы для себя.md",
+    "Inbox/Study/Philosophy/Коммуникация/Как задавать вопросы.md",
+    "Inbox/Study/Philosophy/Коммуникация/Не умничай.md",
+    "Inbox/Study/Philosophy/Коммуникация/Коммуникация.md",
+    "Inbox/Study/Philosophy/Коммуникация/как провести разбор полетов.md",
+    "Inbox/Study/Philosophy/Psychology/Психология.md"
+  ]
+}

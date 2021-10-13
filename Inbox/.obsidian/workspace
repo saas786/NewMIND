@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "146a5aa10bd45b1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f8cb4d733e38357",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Обучение/linux/Установка Arch linux.md",
+            "mode": "source"
+          }
+        },
+        "group": "7674a1547df1a999"
+      },
+      {
+        "id": "61b3eeb1afaf4457",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Обучение/linux/Установка Arch linux.md",
+            "mode": "source"
+          }
+        },
+        "group": "7674a1547df1a999"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d464a3e26b307bc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "848215d2449919ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91ef7935aca025bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b650ff01a913656c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#english",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3879e618da741b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "07bcaa37ee745cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a28a9e5ab44e72ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Обучение/linux/Установка Arch linux.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2f8cb4d733e38357",
+  "lastOpenFiles": [
+    "Обучение/linux/Установка Arch linux.md",
+    "Обучение/linux/MAC change.md",
+    "Обучение/linux/Untitled.md",
+    "Обучение/linux/linux.md",
+    "[linux.md",
+    "start 2M.md",
+    "start.md",
+    "Docker.md",
+    "Обучение/Обучение.md",
+    "Обучение/Термины.md"
+  ]
+}

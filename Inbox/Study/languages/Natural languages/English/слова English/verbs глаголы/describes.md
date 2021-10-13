@@ -1,0 +1,2 @@
+describe [dɪsˈkraɪb] гл
+[[english]]

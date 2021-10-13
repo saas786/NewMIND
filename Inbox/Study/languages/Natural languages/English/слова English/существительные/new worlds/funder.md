@@ -1,0 +1,3 @@
+funder - спонсор
+
+[[english]]
