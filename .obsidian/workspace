@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6314577f14b7dc12",
+        "id": "dc03950a4e59da3a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Study/languages/WEB/CSS/свойства/шрифты/text-indent 2021-10-16.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Study/languages/WEB/CSS/свойства/шрифты/text-indent 2021-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Study/languages/WEB/CSS/свойства/шрифты/text-indent 2021-10-16.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Study/languages/WEB/CSS/свойства/шрифты/text-indent 2021-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,17 +223,17 @@
     "width": 580.5,
     "collapsed": true
   },
-  "active": "6314577f14b7dc12",
+  "active": "dc03950a4e59da3a",
   "lastOpenFiles": [
-    "Inbox/Study/montage/Терминология и графический язык.md",
-    "Inbox/Study/Philosophy/коммуникация с выражением лица.md",
-    "Inbox/Study/Philosophy/Какие вопросы должен задавать себе специалист.md",
-    "Inbox/Study/Philosophy/Вопросы которые изменят жизнь.md",
-    "Inbox/Study/Philosophy/вопросы для себя.md",
-    "Inbox/Study/Philosophy/Коммуникация/Как задавать вопросы.md",
-    "Inbox/Study/Philosophy/Коммуникация/Не умничай.md",
-    "Inbox/Study/Philosophy/Коммуникация/Коммуникация.md",
-    "Inbox/Study/Philosophy/Коммуникация/как провести разбор полетов.md",
-    "Inbox/Study/Philosophy/Psychology/Психология.md"
+    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/text-indent 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/font-style 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/Без названия.md",
+    "Inbox/Study/languages/WEB/CSS/& шрифты 2021-08-25.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/font 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/font-size 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/font.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/font-weight 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/Семейство шрифтов в CSS 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/& Разные типы селекторов 2021-08-25.md"
   ]
 }
