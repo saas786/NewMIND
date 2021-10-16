@@ -8,7 +8,7 @@ cssclass:
 
 
 
-# Title: **[[свойство border-color 2021-10-07]]]**
+# Title: **[[Свойство border-color 2021-10-07]]]**
 - `Type:` [[&]]
 - `Links:`
 - `Reviewed Date:` [[2021-10-07]]

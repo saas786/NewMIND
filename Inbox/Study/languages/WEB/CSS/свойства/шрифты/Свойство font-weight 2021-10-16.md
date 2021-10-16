@@ -8,7 +8,7 @@ cssclass:
 
 
 
-# Title: **[[font-weight 2021-10-16]]**
+# Title: **[[Свойство font-weight 2021-10-16]]**
 - `Type:` [[&]]
 - `Links:`
 - `Reviewed Date:` [[2021-10-16]]

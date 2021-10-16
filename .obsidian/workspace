@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc03950a4e59da3a",
+        "id": "e057725fd806b807",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/Study/languages/WEB/CSS/свойства/шрифты/text-indent 2021-10-16.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Study/languages/WEB/CSS/свойства/шрифты/text-indent 2021-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/Study/languages/WEB/CSS/свойства/шрифты/text-indent 2021-10-16.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Study/languages/WEB/CSS/свойства/шрифты/text-indent 2021-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,17 +216,17 @@
     "width": 580.5,
     "collapsed": true
   },
-  "active": "dc03950a4e59da3a",
+  "active": "e057725fd806b807",
   "lastOpenFiles": [
-    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/text-indent 2021-10-16.md",
-    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/font-style 2021-10-16.md",
-    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/Без названия.md",
-    "Inbox/Study/languages/WEB/CSS/& шрифты 2021-08-25.md",
-    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/font 2021-10-16.md",
-    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/font-size 2021-10-16.md",
-    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/font.md",
-    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/font-weight 2021-10-16.md",
-    "Inbox/Study/languages/WEB/CSS/свойства/шрифты/Семейство шрифтов в CSS 2021-10-16.md",
-    "Inbox/Study/languages/WEB/CSS/& Разные типы селекторов 2021-08-25.md"
+    "Inbox/Study/languages/WEB/CSS/фон/Без названия.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/Без названия.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/отступы,границы и т.д/Свойство outline 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/отступы,границы и т.д/свойство padding 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/отступы,границы и т.д/Свойство border 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/отступы,границы и т.д/Свойство margin 2021-08-25.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/отступы,границы и т.д/Без названия.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/отступы,границы и т.д/Свойство padding 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/отступы,границы и т.д/свойство pading 2021-10-16.md",
+    "Inbox/Study/languages/WEB/CSS/свойства/отступы,границы и т.д/свойство pading.md"
   ]
 }
