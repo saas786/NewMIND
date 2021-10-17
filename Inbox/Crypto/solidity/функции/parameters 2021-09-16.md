@@ -59,7 +59,7 @@ cssclass:
 
 - Рассмотрим пример
 
-```
+```solidity
 contract OnlineStore {
   function buySomething() external payable {
     // Проверь, что 0.001 ETH действительно отправлен за вызов функции 
@@ -74,7 +74,7 @@ contract OnlineStore {
 
 Что произойдет, если кто-то вызовет функцию из web3.js (из внешнего интерфейса DApp JavaScript)? Смотри ниже:
 
-```
+```solidity
 // Допустим, `OnlineStore` указывает на контракт в Ethereum:
 OnlineStore.buySomething().send(from: web3.eth.defaultAccount, value: web3.utils.toWei(0.001))
 ```
@@ -84,7 +84,7 @@ OnlineStore.buySomething().send(from: web3.eth.defaultAccount, value: web3.utils
 > Примечание. Если функция не помечена как `payable`, а на нее пытаются отправить ETH, то функция отклонит транзакцию.
 ### Examples 
 
-```
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 

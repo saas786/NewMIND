@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "tag:#📥️/📜️/💻/🕸",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0.955882352941177,
   "linkDistance": 500,
-  "scale": 0.053140799411899045,
-  "close": false
+  "scale": 0.09093875445525287,
+  "close": true
 }

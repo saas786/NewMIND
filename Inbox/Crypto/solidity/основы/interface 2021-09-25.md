@@ -22,7 +22,7 @@ cssclass:
 Чтобы наш контракт связался с другим контрактом в блокчейне, которым владеем не мы, сначала нужно определить **_интерфейс_**.
 
 Посмотрим простой пример. Допустим, в блокчейне существует такой контракт:
-```
+```solidity
 contract LuckyNumber {
 	mapping(address => uint) numbers; 
 	function setNum(uint _num) public { 
@@ -40,7 +40,7 @@ contract LuckyNumber {
 
 Сначала нам надо будет определить **_интерфейс_** контракта `LuckyNumber` (счастливый номер):
 
-```
+```solidity
 contract NumberInterface {
   function getNum(address _myAddress) public view returns (uint);
 }
@@ -54,7 +54,7 @@ contract NumberInterface {
 
 
 ### Взаимодействие 
-```
+```solidity
 contract NumberInterface {
 function getNum(address _myAddress) public view returns (uint); 
 }
@@ -62,7 +62,7 @@ function getNum(address _myAddress) public view returns (uint);
 
 Мы можем использовать его в контракте следующим образом:
 
-```
+```solidity
 contract MyContract {
   address NumberInterfaceAddress = 0xab38... 
   // ^ Адрес контракта FavoriteNumber в Ethereum

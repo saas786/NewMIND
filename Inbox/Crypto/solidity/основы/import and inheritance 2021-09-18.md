@@ -17,7 +17,7 @@ cssclass:
 
 В Solidity есть фича, которая помогает управлять длинными контрактами — **_наследование_**:
 
-```
+```solidity
 contract Doge {
   function catchphrase() public returns (string) {
     return "Клевый песик";
@@ -41,7 +41,7 @@ contract BabyDoge is Doge {
 
 Когда у тебя несколько файлов и нужно импортировать один в другой, Solidity использует ключевое слово `import`:
 
-```
+```solidity
 import "./someothercontract.sol";
 
 contract newContract is SomeOtherContract {
@@ -54,7 +54,7 @@ contract newContract is SomeOtherContract {
 
 
 ### multi # Inheritance
-```
+```solidity
 contract SatoshiNakamoto is NickSzabo, HalFinney { 
 // Omg, the secrets of the universe revealed! 
 }

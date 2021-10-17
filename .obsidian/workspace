@@ -7,8 +7,11 @@
         "id": "8fe144481598b764",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/Без названия.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 728.5
   },
   "right": {
     "id": "7cab349224299db1",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/Без названия.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,15 +225,15 @@
   },
   "active": "8fe144481598b764",
   "lastOpenFiles": [
-    "Inbox/Study/Philosophy/Psychology/9-ять стилей обучения/9. Балансирующий/как освоить балансирующий.md",
-    "Inbox/Study/Philosophy/Psychology/9-ять стилей обучения/9. Балансирующий/Как определить балансирующий стиль.md",
-    "Inbox/Study/Philosophy/Psychology/9-ять стилей обучения/9. Балансирующий/Балансирующий.md",
-    "Inbox/Study/Philosophy/Psychology/9-ять стилей обучения/8. Инициирующий/как освоить инициирующий.md",
-    "Inbox/Study/Philosophy/Psychology/9-ять стилей обучения/8. Инициирующий/Как определить инициирующий стиль.md",
-    "Inbox/Study/Philosophy/Psychology/9-ять стилей обучения/8. Инициирующий/Инициирующий.md",
-    "Inbox/Study/psychology/9-ять стилей обучения/1. Чувствующий/Чувствующий.md",
-    "Inbox/Study/Philosophy/Psychology/9-ять стилей обучения/7. Действующий/как освоить дейвствующий.md",
-    "Inbox/Study/Philosophy/Psychology/9-ять стилей обучения/7. Действующий/Как определить действующий стиль.md",
-    "Inbox/Study/Philosophy/Psychology/9-ять стилей обучения/7. Действующий/Действующий.md"
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/Без названия.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/Свойство z-index 2021-10-17.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/Без названия.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/свойства left, top, right и bottom 2021-10-17.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/& Разные типы селекторов 2021-08-25.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/OOP/Каскад в CSS 2021-10-16.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/& блоки css 2021-08-25.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/фон/Свойство linear-gradient() 2021-10-17.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/фон/Свойство radial-gradient() 2021-10-17.md"
   ]
 }
