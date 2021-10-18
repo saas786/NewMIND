@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/Без названия.md",
-            "mode": "source"
+            "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/Без названия.md",
+                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/Без названия.md"
+                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/Без названия.md",
+                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,15 +225,15 @@
   },
   "active": "8fe144481598b764",
   "lastOpenFiles": [
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/Без названия.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/Свойство z-index 2021-10-17.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/Без названия.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/свойства left, top, right и bottom 2021-10-17.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/& Разные типы селекторов 2021-08-25.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/OOP/Каскад в CSS 2021-10-16.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/& блоки css 2021-08-25.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/фон/Свойство linear-gradient() 2021-10-17.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/фон/Свойство radial-gradient() 2021-10-17.md"
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство border 2021-10-16.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство outline 2021-10-16.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство margin 2021-08-25.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Без названия.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition-duration 2021-10-18.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition-property 2021-10-18.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition-timing-function 2021-10-18.md",
+    "Inbox/Study/languages/Natural languages/English/слова English/существительные/property.md",
+    "Inbox/Study/languages/Natural languages/English/слова English/существительные/ownership.md"
   ]
 }
