@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md",
+            "file": "Inbox/Study/Programs/linux/nginx+django 2021-10-07.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md",
+                "file": "Inbox/Study/Programs/linux/nginx+django 2021-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md"
+                "file": "Inbox/Study/Programs/linux/nginx+django 2021-10-07.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md",
+                "file": "Inbox/Study/Programs/linux/nginx+django 2021-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,15 +225,15 @@
   },
   "active": "8fe144481598b764",
   "lastOpenFiles": [
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition 2021-10-18.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство border 2021-10-16.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство outline 2021-10-16.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство margin 2021-08-25.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Без названия.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition-duration 2021-10-18.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition-property 2021-10-18.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/Свойство transition-timing-function 2021-10-18.md",
-    "Inbox/Study/languages/Natural languages/English/слова English/существительные/property.md",
-    "Inbox/Study/languages/Natural languages/English/слова English/существительные/ownership.md"
+    "Inbox/Study/Programs/linux/nginx+django 2021-10-07.md",
+    "Inbox/Crypto/solidity/функции/Event 2021-09-23.md",
+    "Inbox/Crypto/solidity/функции/function 2021-09-16.md",
+    "Inbox/Crypto/solidity/переменные/Storage and Memory 2021-09-23.md",
+    "Inbox/Crypto/solidity/переменные/struct 2021-09-17.md",
+    "Inbox/Crypto/solidity/основы/Keccak256 и преобразование типов данных 2021-09-23.md",
+    "Inbox/Crypto/solidity/логические операторы/if 2021-09-25.md",
+    "Inbox/Crypto/solidity/основы/interface 2021-09-25.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/подсвойства/Свойство 2021-10-18.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/подсвойства/Свойство transition-duration 2021-10-18.md"
   ]
 }
