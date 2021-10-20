@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Study/Programs/linux/nginx+django 2021-10-07.md",
+            "file": "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг arcicle 2021-09-05.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Study/Programs/linux/nginx+django 2021-10-07.md",
+                "file": "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг arcicle 2021-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Study/Programs/linux/nginx+django 2021-10-07.md"
+                "file": "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг arcicle 2021-09-05.md"
               }
             }
           },
@@ -95,82 +95,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Study/Programs/linux/nginx+django 2021-10-07.md",
+                "file": "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг arcicle 2021-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "c1acea9e6d45b784",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "92b553ea61375e3c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c5098a6ba2d352f9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6e32335dbc3c7929",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dd2de77f6d8f8c36",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6440eea867aea914",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f6821f0279889bde",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "04a63097dc5a6974",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2e5a176e71b26c3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -225,15 +153,15 @@
   },
   "active": "8fe144481598b764",
   "lastOpenFiles": [
-    "Inbox/Study/Programs/linux/nginx+django 2021-10-07.md",
-    "Inbox/Crypto/solidity/функции/Event 2021-09-23.md",
-    "Inbox/Crypto/solidity/функции/function 2021-09-16.md",
-    "Inbox/Crypto/solidity/переменные/Storage and Memory 2021-09-23.md",
-    "Inbox/Crypto/solidity/переменные/struct 2021-09-17.md",
-    "Inbox/Crypto/solidity/основы/Keccak256 и преобразование типов данных 2021-09-23.md",
-    "Inbox/Crypto/solidity/логические операторы/if 2021-09-25.md",
-    "Inbox/Crypto/solidity/основы/interface 2021-09-25.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/подсвойства/Свойство 2021-10-18.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/подсвойства/Свойство transition-duration 2021-10-18.md"
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/контейнеры, параграфы/парные тэги/тэг arcicle 2021-09-05.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/спец/картинки и прочее/Тег img 2021-09-06.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/редактирование текста/парные тэги/Теги strong и b 2021-09-06.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/редактирование текста/парные тэги/Теги sub и sup 2021-09-06.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/редактирование текста/парные тэги/тэг b 2021-09-10.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/редактирование текста/парные тэги/тэг p 2021-10-04.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/редактирование текста/парные тэги/тэг u 2021-10-05.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/редактирование текста/парные тэги/тэги big и small 2021-10-05.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/редактирование текста/парные тэги/тэги s и  strike 2021-10-05.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/редактирование текста/парные тэги/тэги h1-h6 2021-09-10.md"
   ]
 }

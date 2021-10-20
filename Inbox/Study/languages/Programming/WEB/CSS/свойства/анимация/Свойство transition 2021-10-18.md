@@ -24,3 +24,8 @@ transition: <переход> [, <переход> ]*
 ### Значения
 
 ==none== - Отменяет эффект перехода.
+
+[[Свойство transition-timing-function 2021-10-18]]
+[[Свойство transition-property 2021-10-18]]
+[[Свойство transition-duration 2021-10-18]]
+[[Свойство transition-delay 2021-10-18]]
