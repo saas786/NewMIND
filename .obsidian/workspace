@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство margin 2021-08-25.md",
-            "mode": "source"
+            "file": "new/дела.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 550.5
   },
   "right": {
     "id": "7cab349224299db1",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство margin 2021-08-25.md",
+                "file": "new/дела.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство margin 2021-08-25.md"
+                "file": "new/дела.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство margin 2021-08-25.md",
+                "file": "new/дела.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "8fe144481598b764",
   "lastOpenFiles": [
+    "new/дела.md",
+    "new/Short note 2021-10-05.md",
+    "Идеи.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/Css переменные 2021-10-24.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/URL в CSS 2021-10-16.md",
     "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство margin 2021-08-25.md",
     "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/свойство padding 2021-10-16.md",
     "Inbox/Study/languages/Programming/WEB/CSS/& блоки css 2021-08-25.md",
     "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/Свойство border 2021-10-16.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/формы/парные тэги/тэг label 2021-10-08.md",
-    "Journal/дневник/10.2021/2021-10-08.md",
-    "Inbox/Study/hash cat.md",
-    "Inbox/Study/обучение.md",
-    "Inbox/Study/Programs/git/команды 2021-09-15.md",
-    "Math/Треугольник Паскаля формула нижнего ряда 2021-10-10.md"
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/формы/парные тэги/тэг label 2021-10-08.md"
   ]
 }
