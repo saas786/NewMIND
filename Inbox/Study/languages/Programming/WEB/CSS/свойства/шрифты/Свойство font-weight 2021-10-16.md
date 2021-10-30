@@ -20,3 +20,15 @@ font-weight: bold|bolder|lighter|normal|100|200|300|400|500|600|700|800|900;
 ```
 
 [[font-weight.html|пример]]
+
+```css
+h1 {font-size: 68px; font-weight: 800;}
+h2 {font-size: 52px; font-weight: 600;}
+h3 {font-size: 40px; font-weight: 500;}
+h4 {font-size: 32px; font-weight: 400;}
+h5 {font-size: 21px; font-weight: 300;}
+h6 {font-size: 14px; font-weight: 200;}
+```
+
+![[Pasted image 20211026052202.png]]
+

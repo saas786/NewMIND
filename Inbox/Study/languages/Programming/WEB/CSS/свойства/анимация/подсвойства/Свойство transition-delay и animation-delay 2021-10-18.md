@@ -8,7 +8,7 @@ cssclass:
 
 
 
-# Title: **[[Свойство transition-delay 2021-10-18]]**
+# Title: **[[Свойство transition-delay и animation-delay 2021-10-18]]**
 - `Type:` [[&]]
 - `Links:`
 - `Reviewed Date:` [[2021-10-18]]

@@ -31,3 +31,6 @@ text-transform: capitalize | lowercase | uppercase | none | inherit
 ==none== - Не меняет регистр символов.
 
 ==inherit== - Наследует значение родителя.
+
+
+![[Pasted image 20211026033139.png]]
