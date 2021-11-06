@@ -6,11 +6,24 @@
       {
         "id": "8fe144481598b764",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Study/Programs/linux/безлимит yota ро usb 2021-10-30.md",
-            "mode": "preview"
+            "file": "Inbox/Study/languages/Programming/WEB/CSS/CSS MOC.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "2cf1053cfcc22933",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "купить домен другой зоны.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "display",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 601.5
   },
   "right": {
     "id": "7cab349224299db1",
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Study/Programs/linux/безлимит yota ро usb 2021-10-30.md",
+                "file": "Inbox/Study/languages/Programming/WEB/CSS/CSS MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Study/Programs/linux/безлимит yota ро usb 2021-10-30.md"
+                "file": "Inbox/Study/languages/Programming/WEB/CSS/CSS MOC.md"
               }
             }
           },
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Study/Programs/linux/безлимит yota ро usb 2021-10-30.md",
+                "file": "Inbox/Study/languages/Programming/WEB/CSS/CSS MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +126,7 @@
             }
           },
           {
-            "id": "e7dc457aa7ec0426",
+            "id": "77dbb2d892f21015",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -121,7 +134,7 @@
             }
           },
           {
-            "id": "32e454ca02463896",
+            "id": "c6ef2c82ef205396",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -129,7 +142,7 @@
             }
           },
           {
-            "id": "72a436d5a9f027e1",
+            "id": "9e8021882d493375",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -137,7 +150,7 @@
             }
           },
           {
-            "id": "a83843edf62b9579",
+            "id": "5a0fb9db19b5fce2",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -153,15 +166,15 @@
   },
   "active": "8fe144481598b764",
   "lastOpenFiles": [
-    "Inbox/Study/Programs/linux/безлимит yota ро usb 2021-10-30.md",
-    "Inbox/Study/Programs/linux/Не было печали, апдейтов накачали.md",
-    "Inbox/Study/Programs/linux/откатить версию пакета.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/спец/Свойство display 2021-10-16.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/формы/парные тэги/тэг fieldset и legend 2021-10-08.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/спец/тэг audio 2021-10-13.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/body/спец/тэг video 2021-10-13.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/подсвойства/Свойство transition-delay и animation-delay 2021-10-18.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/анимация/keyframes/@keyframes 2021-10-27.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/псевдоклассы/редактирование текста/before  и after 2021-10-16.md"
+    "Inbox/Study/languages/Programming/WEB/CSS/CSS MOC.md",
+    "купить домен другой зоны.md",
+    "Идеи.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/таблицы/свойство list-style 2021-10-17.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/шрифты/Свойство font 2021-10-16.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/шрифты/Семейство шрифтов в CSS 2021-10-16.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/шрифты/Свойство font-weight 2021-10-16.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/шрифты/Свойство font-style 2021-10-16.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/Свойство opacity 2021-10-26.md",
+    "Inbox/Study/languages/Programming/WEB/CSS/свойства/отступы,границы/свойство padding 2021-10-16.md"
   ]
 }

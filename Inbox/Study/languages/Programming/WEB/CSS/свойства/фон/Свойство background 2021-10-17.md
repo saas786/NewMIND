@@ -1,6 +1,6 @@
 ---
 type: paper
-tags: 📥️/📜️/💻/🕸
+tags: 📥️/📜️/🩳/💻/🕸/🪟
 aliases:
   - 
 cssclass: 
@@ -9,7 +9,7 @@ cssclass:
 
 
 # Title: **[[Свойство background 2021-10-17]]**
-- `Type:` [[&]] [[CSS]]
+- `Type:` [[&]] [[CSS 2021-11-03]]
 - `Links:`
 - `Reviewed Date:` [[2021-10-17]]
 
