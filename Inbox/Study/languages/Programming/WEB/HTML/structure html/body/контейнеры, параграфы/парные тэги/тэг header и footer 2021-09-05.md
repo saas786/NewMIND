@@ -10,7 +10,7 @@ cssclass:
 
 # Title: **[[тэг header и footer 2021-09-05]]**
 - `Type:` [[Языки]] [[HTML]] [[&]]
-- `Links:` [[HTML+CSS moc]]
+- `Links:` [[HTML moc]]
 - `Reviewed Date:` [[2021-09-05]]
 
 # Структурирование страницы при помощи HTML5

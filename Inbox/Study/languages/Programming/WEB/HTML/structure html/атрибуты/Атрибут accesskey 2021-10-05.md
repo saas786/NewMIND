@@ -10,7 +10,7 @@ cssclass:
 
 # Title: **[[Атрибут accesskey 2021-10-05]]]**
 - `Type:` [[&]]
-- `Links:` [[HTML+CSS moc]]
+- `Links:` [[HTML moc]]
 - `Reviewed Date:` [[2021-10-05]]
 
 ## Атрибут accesskey

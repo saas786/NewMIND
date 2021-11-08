@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe144481598b764",
+        "id": "2cf1053cfcc22933",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Study/languages/Programming/WEB/CSS/CSS MOC.md",
+            "file": "Inbox/Study/languages/Programming/WEB/HTML moc.md",
             "mode": "source"
           },
           "pinned": true
         }
       },
       {
-        "id": "2cf1053cfcc22933",
+        "id": "f5e2dbd7dcc70307",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Study/languages/Programming/WEB/CSS/свойства/цвет/Colors css 2021-10-16.md",
-            "mode": "preview"
+            "file": "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/CSS MOC.md",
+                "file": "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/CSS MOC.md"
+                "file": "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/CSS/CSS MOC.md",
+                "file": "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,17 +164,17 @@
     "width": 580.5,
     "collapsed": true
   },
-  "active": "8fe144481598b764",
+  "active": "f5e2dbd7dcc70307",
   "lastOpenFiles": [
-    "Inbox/Study/languages/Programming/WEB/CSS/CSS MOC.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/цвет/Colors css 2021-10-16.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/спец/Свойство display 2021-10-16.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/Свойство z-index 2021-10-17.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/Свойство vertical-align 2021-10-21.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/свойства left, top, right и bottom 2021-10-17.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/позиционирование/свойство position 2021-10-17.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/списки/подсвойства/Cвойство list-style-position 2021-10-17.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/списки/подсвойства/свойство list-style-type 2021-10-17.md",
-    "Inbox/Study/languages/Programming/WEB/CSS/свойства/списки/Общая информация и форматирование таблиц 2021-10-17.md"
+    "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/main/& List of XML and HTML character entity references 2021-08-25.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут bgcolor 2021-10-07.md",
+    "Inbox/Study/languages/Programming/WEB/HTML moc.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут abbr 2021-10-07.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/атрибут align 2021-10-07.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут style 2021-10-05.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут id 2021-10-05.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут dir 2021-10-05.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут class 2021-10-05.md"
   ]
 }

@@ -10,7 +10,7 @@ cssclass:
 
 # Title: **[[Тег blockquote 2021-09-05]]**
 - `Type:` [[Языки]] [[HTML]] [[&]]
-- `Links:` [[HTML+CSS moc]]
+- `Links:` [[HTML moc]]
 - `Reviewed Date:` [[2021-09-05]]
 
 ### Тэг для цитат с отступом
