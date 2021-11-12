@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md",
+            "file": "Journal/дневник/11.2021/2021-11-12.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "osu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md",
+                "file": "Journal/дневник/11.2021/2021-11-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md"
+                "file": "Journal/дневник/11.2021/2021-11-12.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md",
+                "file": "Journal/дневник/11.2021/2021-11-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,15 +166,15 @@
   },
   "active": "f5e2dbd7dcc70307",
   "lastOpenFiles": [
-    "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/main/& List of XML and HTML character entity references 2021-08-25.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут bgcolor 2021-10-07.md",
+    "Journal/дневник/11.2021/2021-11-12.md",
+    "Inbox/Study/languages/Programming/python/types/Словар - dict().md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибуты start и reversed 2021-09-05.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут contenteditable 2021-10-05.md",
     "Inbox/Study/languages/Programming/WEB/HTML moc.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут abbr 2021-10-07.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/атрибут align 2021-10-07.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут style 2021-10-05.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут id 2021-10-05.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут accesskey 2021-10-05.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/атрибут download 2021-09-06.md",
     "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут dir 2021-10-05.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут class 2021-10-05.md"
+    "Inbox/Study/Programs/osu/Osu.md",
+    "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md"
   ]
 }
