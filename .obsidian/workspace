@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md",
-            "mode": "preview"
+            "file": "Inbox/Study/Programs/linux/ssh 2021-12-22.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md",
+                "file": "Inbox/Study/Programs/linux/ssh 2021-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md"
+                "file": "Inbox/Study/Programs/linux/ssh 2021-12-22.md"
               }
             }
           },
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md",
+                "file": "Inbox/Study/Programs/linux/ssh 2021-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +154,15 @@
   },
   "active": "a7222f9420113872",
   "lastOpenFiles": [
-    "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md",
     "Inbox/Study/Programs/linux/ssh 2021-12-22.md",
+    "Inbox/Study/Programs/linux/which.md",
+    "Inbox/Study/Programs/linux/Не было печали, апдейтов накачали.md",
+    "Inbox/Study/Programs/linux/откатить версию пакета.md",
+    "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md",
+    "Inbox/Study/Programs/linux/проблема с днс.md",
+    "Inbox/Study/Programs/linux/Установка Arch linux.md",
     "Inbox/Study/Programs/linux/Шрифты 2021-09-15.md",
-    "Journal/дневник/11.2021/2021-11-12.md",
-    "Inbox/Study/languages/Programming/python/types/Словар - dict().md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибуты start и reversed 2021-09-05.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут contenteditable 2021-10-05.md",
-    "Inbox/Study/languages/Programming/WEB/HTML moc.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут accesskey 2021-10-05.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/атрибут download 2021-09-06.md"
+    "Inbox/Study/Programs/linux/linux.md",
+    "Journal/дневник/11.2021/2021-11-12.md"
   ]
 }

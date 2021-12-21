@@ -15,5 +15,7 @@
   "autoPairBrackets": true,
   "smartIndentList": true,
   "useTab": true,
-  "lineWrap": true
+  "lineWrap": true,
+  "legacyEditor": false,
+  "livePreview": true
 }
