@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf1053cfcc22933",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/Study/languages/Programming/WEB/HTML moc.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "f5e2dbd7dcc70307",
+        "id": "a7222f9420113872",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/дневник/11.2021/2021-11-12.md",
-            "mode": "source"
+            "file": "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md",
+            "mode": "preview"
           }
         }
       }
@@ -65,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 601.5
+    "width": 307.49999809265137
   },
   "right": {
     "id": "7cab349224299db1",
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/дневник/11.2021/2021-11-12.md",
+                "file": "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/дневник/11.2021/2021-11-12.md"
+                "file": "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md"
               }
             }
           },
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/дневник/11.2021/2021-11-12.md",
+                "file": "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +113,7 @@
             }
           },
           {
-            "id": "77dbb2d892f21015",
+            "id": "b2947bbf1a62314b",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -134,7 +121,7 @@
             }
           },
           {
-            "id": "c6ef2c82ef205396",
+            "id": "d3f061a29e6a398a",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -142,7 +129,7 @@
             }
           },
           {
-            "id": "9e8021882d493375",
+            "id": "e979c8edc434a0f3",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -150,7 +137,7 @@
             }
           },
           {
-            "id": "5a0fb9db19b5fce2",
+            "id": "25dea610ca35ec52",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -164,17 +151,17 @@
     "width": 580.5,
     "collapsed": true
   },
-  "active": "f5e2dbd7dcc70307",
+  "active": "a7222f9420113872",
   "lastOpenFiles": [
+    "Inbox/Study/Programs/linux/отключить вебку 2021-12-22.md",
+    "Inbox/Study/Programs/linux/ssh 2021-12-22.md",
+    "Inbox/Study/Programs/linux/Шрифты 2021-09-15.md",
     "Journal/дневник/11.2021/2021-11-12.md",
     "Inbox/Study/languages/Programming/python/types/Словар - dict().md",
     "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибуты start и reversed 2021-09-05.md",
     "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут contenteditable 2021-10-05.md",
     "Inbox/Study/languages/Programming/WEB/HTML moc.md",
     "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут accesskey 2021-10-05.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/атрибут download 2021-09-06.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/Атрибут dir 2021-10-05.md",
-    "Inbox/Study/Programs/osu/Osu.md",
-    "Inbox/Study/languages/Programming/WEB/HTML/main/& атрибуты 2021-08-25.md"
+    "Inbox/Study/languages/Programming/WEB/HTML/structure html/атрибуты/атрибут download 2021-09-06.md"
   ]
 }
